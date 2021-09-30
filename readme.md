@@ -6,7 +6,7 @@
 * [query.sql](query.sql) запрос, по которому получаем данные из БД demo.bookings
 * readme.md текущий файл
 * [Сдача промежуточного проекта.ktr](Сдача%20промежуточного%20проекта.ktr) файл трансформации для Pentaho DI
-* docker-compose.yml файл конфигурации контейнера для запуска postgresql средствами docker-compose
+* [docker-compose.yml](docker-compose.yml) файл конфигурации контейнера для запуска postgresql средствами docker-compose
 
 ## Структура DWH БД
 
