@@ -8,6 +8,10 @@
 * [Сдача промежуточного проекта.ktr](Сдача%20промежуточного%20проекта.ktr) файл трансформации для Pentaho DI
 * docker-compose.yml файл конфигурации контейнера для запуска postgresql средствами docker-compose
 
+## Структура DWH БД
+
+![ER](screen_ER.png "ER")
+
 ## Опсиание ETL процесса
 
 ![ETL](screen.png "ETL")
